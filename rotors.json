@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "IC",
+    "SetId": "Commercial Enigma",
+    "Wiring": "DMTWSILRUYQNKFEJCAZBPGXOHV"
+  },
+  {
+    "Name": "IIC",
+    "SetId": "Commercial Enigma",
+    "Wiring": "HQZGPJTMOBLNCIFDYAWVEUSRKX"
+  },
+  {
+    "Name": "IIIC",
+    "SetId": "Commercial Enigma",
+    "Wiring": "UQNTLSZFMREHDPXKIBVYGJCWOA"
+  }
+]
